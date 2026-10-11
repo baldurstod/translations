@@ -349,7 +349,7 @@
 		"#control": "Contrôle",
 		"#rotation_control": "Contrôle de rotation",
 		"#helper": "Aide",
-		"#wireframe": "Fil de fer",
+		"#wireframe": "Maillage",
 		"#source1": "Source 1",
 		"#source2": "Source 2",
 		"#model": "Modèle",
@@ -473,6 +473,16 @@
 		"#post_processing_saturation": "Saturation",
 		"#activity": "Activity",
 		"#activity_modifiers": "Activity modifiers",
+		"#text_2d": "Texte 2D",
+		"#text_3d": "Texte 3D",
+		"#special": "Spécial",
+		"#no_parent_rotation": "No parent rotation",
+		"#wireframe2": "Maillage 2",
+		"#local_orientation": "Orientation locale",
+		"#global_orientation": "Orientation globale",
+		"#reset_local_orientation": "RAZ orientation locale",
+		"#reset_global_orientation": "RAZ orientation globale",
+		"#edit_material": "Éditer le matériau",
 		"": ""
 	}
 }

@@ -474,6 +474,16 @@
 		"#post_processing_saturation": "Saturation",
 		"#activity": "Activity",
 		"#activity_modifiers": "Activity modifiers",
+		"#text_2d": "2D text",
+		"#text_3d": "3D text",
+		"#special": "Special",
+		"#no_parent_rotation": "No parent rotation",
+		"#wireframe2": "Wireframe 2",
+		"#local_orientation": "Local orientation",
+		"#global_orientation": "Global orientation",
+		"#reset_local_orientation": "Reset local orientation",
+		"#reset_global_orientation": "Reset global orientation",
+		"#edit_material": "Edit material",
 		"": ""
 	}
 }
