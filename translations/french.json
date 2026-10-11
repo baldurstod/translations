@@ -460,6 +460,19 @@
 		"#help_printful_product_sizes": "Tailles du produit. Toutes le tailles seront disponible à l'achat",
 		"#help_printful_product_techniques": "<h2>DTG</h2>L’impression numérique textile, ou impression DTG, est une méthode qui vaporise de l’encre sur les vêtements, de la même façon que l’impression sur papier.<br>Les designs imprimés en DTG pénètrent dans les fibres du vêtement, de cette façon les impressions :<ul><li>ne restent pas sur la surface du tissu</li><li>ne se fissurent pas au fil du temps</li><li>ne sont pas raides, procurent ainsi un meilleur confort à celle.celui qui le porte.</li></ul><h2>DTF</h2>L’impression DTF permet de gérer des designs ultra-détaillés, des visuels réalistes, des lignes fines et des textes minuscules. Résultat ? Des créations audacieuses qui se démarquent sur presque tous les tissus.<br>Là où l’impression DTG atteint ses limites, l’impression DTF excelle : elle est idéale pour les vêtements de sport résistants, les tenues de performance ou les matières plus difficiles à imprimer.",
 		"#help_printful_transparent_background": "Utiliser un arrière plan transparent. Si désactivé, utilise l'option de couleur d'arrière plan",
+		"#dotaloadout_about_content": "DotaLoadout.com is a service provided by <a href=\"http://steamcommunity.com/id/baldurstod/\" target=\"_blank\">Baldurs Tod</a><br>Models and texture files are property of <a href=\"http://www.valvesoftware.com/\" target=\"_blank\">Valve Corporation</a><br>Valve, Steam, Dota2 are trademarks and/or registered trademarks of Valve Corporation.",
+		"#orthographic_camera": "Camera orthographique",
+		"#merge_vertices": "Joindre les sommets proches",
+		"#hideitemname": "Cache le nom des items",
+		"#show_pedestal": "Afficher le piédestal",
+		"#show_metamorphosis": "Afficher la métamorphose",
+		"#share_loadout": "Partager",
+		"#loadout_pasted": "Lien copié dans le presse papier avec succès.",
+		"#get_market_prices": "Afficher le prix du marché",
+		"#show_effects": "Afficher les effets (bêta)",
+		"#post_processing_saturation": "Saturation",
+		"#activity": "Activity",
+		"#activity_modifiers": "Activity modifiers",
 		"": ""
 	}
 }

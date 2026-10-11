@@ -48,6 +48,7 @@ export async function buildTranslations(inputFile: string, outputDir: string, su
 			}
 			for (const translationString of translationsJSON.strings) {
 				if (translationString === '') {
+					strings[''] = '';
 					continue;
 				}
 				const tr = translation.strings[translationString];
