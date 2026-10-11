@@ -1,0 +1,22 @@
+{
+	"lang": "french",
+	"strings": {
+		"#viewport": "Affichage",
+		"#primary_viewport": "Affichage primaire",
+		"#secondary_viewport": "Affichage secondaire",
+		"#timeline": "Chronologie",
+		"#script_editor": "Éditeur de scripts",
+		"#shader_editor": "Éditeur de shaders",
+		"#viewports": "Affichages",
+		"#scene_explorer": "Explorateur de scène",
+		"#outline": "Schéma",
+		"#options": "Options",
+		"#advanced_options": "Options avancées",
+		"#language": "Langue :",
+		"#model_selector": "Sélecteur de modèle",
+		"#character_selector": "Sélecteur de personnage",
+		"#element_viewer": "Visualiseur d'éléments",
+		"#status_bar_clip": "Extrait: ${name}, début: ${start}, durée: ${duration}",
+		"": ""
+	}
+}
