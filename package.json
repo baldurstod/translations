@@ -1,0 +1,19 @@
+{
+  "name": "translations",
+  "version": "0.0.1",
+  "description": "Translations for several projects",
+  "homepage": "https://github.com/baldurstod/translations#readme",
+  "bugs": {
+    "url": "https://github.com/baldurstod/translations/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldurstod/translations.git"
+  },
+  "type": "module",
+	"main": "dist/index.js",
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.1.0",
+    "rollup": "^4.64.0"
+  }
+}
