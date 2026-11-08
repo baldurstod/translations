@@ -515,6 +515,11 @@
 		"#recompile": "Recompiler",
 		"#record": "Enregistrer",
 		"#identify_shader": "Identifier le shader",
+		"#format": "Format",
+		"#humans": "Humains",
+		"#bots": "Robots",
+		"#infecteds": "Infectés",
+		"#buy_custom_apparel": "Acheter des vêtements personnalisés",
 		"": ""
 	}
 }

@@ -1,0 +1,34 @@
+{
+  "lang": "spanish",
+  "authors": [
+    "76561198166129711"
+  ],
+  "strings": {
+    "#remove_items": "Remover Objetos",
+    "#show_selected_items_only": "Mostrar solo Objetos seleccionados",
+    "#show_workshop_items": "Mostrar Items De Workshop",
+    "#show_halloween_restricted_items": "Mostrar Restricciones de Halloween",
+    "#show_festivizer": "Mostrar Festivizador",
+    "#filter_per_class": "Filtrar por Clase",
+    "#unusual_weapon_effect": "Efecto de Arma Inusual",
+    "#reset_camera": "Reiniciar Camara",
+    "#use_lighting": "Usar Graficos Altos",
+    "#free_rotation": "Rotacion Libre",
+    "#render_reflections": "Reflejos Renderizados",
+    "#silhouette": "Silueta",
+    "#disable_character_rendering": "Desactivar Rendimiento del Personaje",
+    "#vertical_fov": "Campo de vision Vertical",
+    "#language": "Lenguaje",
+    "#record_gif": "Grabar Gif",
+    "#record_full_animation": "Grabar Animacion Completa",
+    "#record_1_orbit": "Grabar 1 Orbite",
+    "#load_map": "Cargar Mapa",
+    "#load_shader_editor": "Cargar Editor de Sombras",
+    "#options": "Opciones",
+    "#factory_new": "Recién Fabricado",
+    "#minimal_wear": "Casi Nuevo",
+    "#field_tested": "Algo Desgastado",
+    "#well_worn": "Bastante Desgastado",
+    "#battle_scarred": "Deplorable"
+  }
+}

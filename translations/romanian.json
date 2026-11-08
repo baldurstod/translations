@@ -1,0 +1,34 @@
+{
+  "lang": "romanian",
+  "authors": [
+    "76561198130896537"
+  ],
+  "strings": {
+    "#remove_items": "Şterge obiecte :",
+    "#show_selected_items_only": "Arată doar obiectele selectate",
+    "#show_workshop_items": "Arată obiectele din atelier",
+    "#show_halloween_restricted_items": "Afișați obiectele cu restricţie Halloween",
+    "#show_festivizer": "Arată festivizer",
+    "#filter_per_class": "Filtrați pe clasă",
+    "#unusual_weapon_effect": "Efect neobișnuit de armă",
+    "#reset_camera": "Resetează camera",
+    "#use_lighting": "Foloseşte iluminarea",
+    "#free_rotation": "Rotație liberă",
+    "#render_reflections": "Randează reflecţii",
+    "#silhouette": "Siluetă",
+    "#disable_character_rendering": "Dezactivează randarea caracterului",
+    "#vertical_fov": "Câmp de vizualizare vertical",
+    "#language": "Limbă",
+    "#record_gif": "Înregistrați gif",
+    "#record_full_animation": "Înregistrați animație întreaga",
+    "#record_1_orbit": "Înregistrați 1 orbită",
+    "#load_map": "Încărcați harta",
+    "#load_shader_editor": "Încărcați editorul de umbre",
+    "#options": "Opțiuni",
+    "#factory_new": "Nouă",
+    "#minimal_wear": "Uzură minimă",
+    "#field_tested": "Testate",
+    "#well_worn": "Uzată",
+    "#battle_scarred": "Deteriorată"
+  }
+}

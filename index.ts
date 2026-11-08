@@ -1,8 +1,24 @@
 
 import fs from 'fs';
 import path from 'path';
+import brazilian from './translations/brazilian.json';
+import dutch from './translations/dutch.json';
 import english from './translations/english.json';
+import finnish from './translations/finnish.json';
 import french from './translations/french.json';
+import german from './translations/german.json';
+import greek from './translations/greek.json';
+import italian from './translations/italian.json';
+import japanese from './translations/japanese.json';
+import korean from './translations/korean.json';
+import norwegian from './translations/norwegian.json';
+import polish from './translations/polish.json';
+import portuguese from './translations/portuguese.json';
+import romanian from './translations/romanian.json';
+import russian from './translations/russian.json';
+import schinese from './translations/schinese.json';
+import spanish from './translations/spanish.json';
+import swedish from './translations/swedish.json';
 
 type I18nTranslation = {
 	lang: string,
@@ -18,8 +34,24 @@ type I18nTranslationRequest = {
 };
 
 export const translations: Record<string, I18nTranslation> = {
+	brazilian,
+	dutch,
 	english,
+	finnish,
 	french,
+	german,
+	greek,
+	italian,
+	japanese,
+	korean,
+	norwegian,
+	polish,
+	portuguese,
+	romanian,
+	russian,
+	schinese,
+	spanish,
+	swedish,
 }
 
 /**

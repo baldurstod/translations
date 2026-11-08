@@ -1,0 +1,41 @@
+{
+  "lang": "japanese",
+  "authors": [
+    "76561198120204836"
+  ],
+  "strings": {
+    "#remove_items": "アイテムを取り除く",
+    "#show_selected_items_only": "選択したアイテムのみを表示",
+    "#show_workshop_items": "ワークショップのアイテムを表示",
+    "#show_festivizer": "Festivizerを表示",
+    "#filter_per_class": "選択しているクラスのアイテムのみを表示",
+    "#unusual_weapon_effect": "アンユージュアル武器エフェクト",
+    "#reset_camera": "カメラをリセットする",
+    "#use_lighting": "ライティング",
+    "#free_rotation": "自由回転",
+    "#render_reflections": "反射を描画",
+    "#silhouette": "シルエットとして表示",
+    "#disable_character_rendering": "キャラクターの描画を無効にする",
+    "#record_gif": "手動録画（GIFアニメ）",
+    "#record_full_animation": "自動録画（GIFアニメ）",
+    "#record_1_orbit": "一回転分を録画（GIFアニメ）",
+    "#load_map": "マップをロードする",
+    "#load_shader_editor": "シェーダーエディタをロードする",
+    "#options": "オプション",
+    "#hide_all_panels": "すべてのパネルを隠す",
+    "#show_item_list": "アイテムリストを表示",
+    "#show_unusual_effects": "アンユージュアルエフェクトを表示",
+    "#play": "モデルを動かす",
+    "#pause": "一時停止",
+    "#facial_animations": "表情を編集",
+    "#share_current_loadout": "現在のロードアウトをシェア",
+    "#save_picture": "画像として保存",
+    "#export_for_sfm": "SFM用に出力",
+    "#export_for_3d_print": "3Dプリント用に出力",
+    "#report_bug": "バグを報告する",
+    "#about": "Loadout.tf について",
+    "#cancel": "キャンセル",
+    "#interfere_warning": "警告:一部のアイテムが干渉しているため、このロードアウトはゲーム中で再現できません",
+    "#reset_all": "すべて元に戻す"
+  }
+}
