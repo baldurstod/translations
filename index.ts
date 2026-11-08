@@ -76,6 +76,7 @@ export async function buildTranslations(inputFile: string, outputDir: string, su
 			const strings: Record<string, string> = {};
 			const language: I18nTranslation = {
 				lang,
+				authors: translation.authors,
 				strings,
 			}
 			for (const translationString of translationsJSON.strings) {

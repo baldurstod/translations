@@ -77,6 +77,7 @@ async function buildTranslations(inputFile, outputDir, suppressWarning = false, 
             const strings = {};
             const language = {
                 lang,
+                authors: translation.authors,
                 strings,
             };
             for (const translationString of translationsJSON.strings) {
